@@ -2,6 +2,7 @@ package com.dailyQuestion.Sept;
 
 public class isPowerOfThree326 {
     public boolean isPowerOfThree(int n) {
+
         if (n <= 0) {
             return false;
         }
